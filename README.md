@@ -28,10 +28,10 @@ My recent work includes a full-stack job-search assistant (FastAPI, PostgreSQL, 
 |---|---|---|
 | [**JobHunter AI**](https://github.com/Re7absu/jobhunter-ai) | Job-search assistant: CV analysis, job discovery from job APIs and company boards, CV-to-job matching, approval-gated Gmail applications and an analytics dashboard. | FastAPI, PostgreSQL, SQLAlchemy, Next.js, TypeScript |
 | [**Wildfire Evacuation Risk**](https://github.com/Re7absu/wildfire-evacuation-risk) | Predicts when a wildfire will reach an evacuation zone and the risk within 12–72 hours, using survival analysis. Scores 0.972 on unseen fires against a 0.738 baseline. | scikit-survival, scikit-learn, pandas |
-| [**SQL Practice: Sensor Database**](https://github.com/Re7absu/sql-practice) | A PostgreSQL schema for building sensors and alerts, 200,000 generated readings, a timed Python loader and SQL exercises up to window functions. | PostgreSQL, SQL, Python |
-| [**Retail Data Cleaning and Analysis**](https://github.com/Re7absu/pandas_cleaning) | Cleaning and analysis of 32k retail transactions, 5k customers and marketplace listings, including time-series analysis. | pandas, Parquet, Jupyter |
+| [**SQL Practice: Sensor Database**](https://github.com/Re7absu/iot-sensor-database-sql) | A PostgreSQL schema for building sensors and alerts, 200,000 generated readings, a timed Python loader and SQL exercises up to window functions. | PostgreSQL, SQL, Python |
+| [**Retail Data Cleaning and Analysis**](https://github.com/Re7absu/retail-data-cleaning-analysis) | Cleaning and analysis of 32k retail transactions, 5k customers and marketplace listings, including time-series analysis. | pandas, Parquet, Jupyter |
 | [**Python Foundations**](https://github.com/Re7absu/python-foundations) | A command line tool for CSV data with tests, strict typing and a quality gate, plus a log of what I learned. | Python, Typer, pytest, mypy |
-| [**City Data Pipeline**](https://github.com/Re7absu/city-data-pipeline-V0.1) *(in progress)* | Collects weather and air-quality data for ten Saudi cities from a public API, with retries and raw-data storage. | Python, requests, tenacity |
+| [**City Data Pipeline**](https://github.com/Re7absu/saudi-city-data-pipeline) *(in progress)* | Collects weather and air-quality data for ten Saudi cities from a public API, with retries and raw-data storage. | Python, requests, tenacity |
 
 ## Currently learning
 
